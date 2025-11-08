@@ -14,9 +14,9 @@ import urllib.request as rq
 from typing import List
 
 # ==========  仅需修改以下 3 个值  ==========
-TOKEN = 'ghp_TtxxxxxxxxxxxxxxrKwz4TomeN'
-USER  = '1638276310'
-REPO  = 'img1'
+TOKEN = 'Github Token'
+USER  = 'username'
+REPO  = 'repo'
 BRANCH = 'master'
 # ==========================================
 
